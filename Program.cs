@@ -9,7 +9,7 @@ class Program
         Console.WriteLine(' ');
         Console.ForegroundColor = ConsoleColor.Cyan;
         Console.WriteLine(@"Выберите арифметическое действие:
-- Умножение (введите 1)
+        - Умножение (введите 1)
 - Деление (введите 2)
 - Сложение (введите 3)
 - Вычитание (введите 4)
