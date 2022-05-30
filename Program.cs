@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         Console.ForegroundColor = ConsoleColor.Magenta;
-        Console.WriteLine("Консольный калькулятор (версия 1.0)");
+        Console.WriteLine("Добро пожаловать в консольный калькулятор (версия 1.0)");
         Console.WriteLine(' ');
         Console.ForegroundColor = ConsoleColor.Cyan;
         Console.WriteLine(@"Выберите арифметическое действие:
